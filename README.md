@@ -1,1 +1,1 @@
-# Python Scriptss
+# Python Scripts
